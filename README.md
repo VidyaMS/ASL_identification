@@ -5,7 +5,7 @@ The data source for this analysis :  https://www.kaggle.com/grassknoted/asl-alph
 We are provided with train images (87000) and test images(24) for each letter.  
 I have also downloaded few ASL images from the web and used them for further testing.  
 
-The notebooks in this repo serve the following  purposes: 
+The notebooks in this repo serve the following  purposes:   
 Step 1:   
 In the notebooks : sign_language_identification_RGB.ipynb and sign_language_identification_grayscale.ipynb , Neural Network models are built for the purpose of identification of ASL images and getting the best test set accuracy.    
 Step 2 :   
